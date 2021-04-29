@@ -1,1 +1,12 @@
-Taxislužba
+Vzorové konfigurácie počítačovej siete pomocou zariadení MikroTik
+
+MikroTik RouterOS je operačný systém postavený na Linuxe, prevádzkovaný na hardvéri vyrábanom firmou MikroTik pod značkou RouterBOARD alebo na počítačovej platforme x86. RouterOS poskytuje funkcie smerovača alebo prepínača a implementuje rozličné ďalšie funkcie, ako napr. bezdrôtový prístupový bod (AP, Hotspot), firewall, VPN koncentrátor, obmedzovač šírky pásma (shaper), atď. Operačný systém je konfigurovateľný v grafickom prostredí prostredníctvom aplikácie Winbox alebo prostredníctvom príkazového riadka cez SSH protokol.
+
+Cieľom práce je vytvoriť postupy a manuály na konfiguráciu vzorových sieťových topológií používaných pri výučbe predmetov počítačových sietí pomocou zariadení MikroTik
+
+Charakter práce: aplikačný.
+
+Požiadavky na obsah: popis riešeného problému, návrh systému/hardvérového riešenia a pod. (modely, ..), metodika vývoja/tvorby, implementácia, popis vytvoreného riešenia, testovanie.
+
+
+PUSH 2: Obhajoba práce: 2022
